@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![catimage](https://www.rover.com/blog/wp-content/uploads/2019/08/snowshoe1-960x540.jpg)
+
 <!--
 **jasleenv/jasleenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
