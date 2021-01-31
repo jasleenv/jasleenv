@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name's Jasleen and I'm studying to be a Full-stack Web Developer at Pursuit while driving Uber. I'm currently working on learning Javascript. I'm finding joy in learning and working through the process. In my spare time I practice martial arts, watch anime, and train my cat.  👋
 
 ![Demon Slayer Tree With Butterfly Animation](https://d.wattpad.com/story_parts/870869495/images/160831146532284b249091090627.gif)
 
