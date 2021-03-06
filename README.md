@@ -1,4 +1,4 @@
-### Hi, my name's Jasleen and I'm studying FSW. I'm finding joy in learning and working through the process. I'm currently working on learning Javascript. In my spare time I practice martial arts, watch anime, and train my cat.  👋
+### Hi, my name's Jasleen and I'm studying FSW. I'm finding joy in learning and working through the process. I'm currently working on learning Javascript. In my spare time I like to be in nature, watch anime, and train my cat.  👋
 
   ![World tree](https://i.pinimg.com/originals/c6/3a/c5/c63ac542a827878f9538f514a8fc94b2.gif)
 
